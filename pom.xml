@@ -118,6 +118,12 @@
                 <artifactId>maven-dependency-plugin</artifactId>
                 <version>3.2.0</version>
             </plugin>
+            <!-- Maven PMD Plugin -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-pmd-plugin</artifactId>
+                <version>3.16.0</version>
+            </plugin>
         </plugins>
     </reporting>
 </project>
