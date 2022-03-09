@@ -4,7 +4,7 @@
     <distributionManagement>
         <site>
             <id>shrek</id>
-            <url>scp://@shrek.unideb.hu:2222/home/markvarga21/public_html/${project.artifactId}</url>
+            <url>scp://markvarga21@shrek.unideb.hu:2222/home/markvarga21/public_html/${project.artifactId}</url>
         </site>
     </distributionManagement>
     <modelVersion>4.0.0</modelVersion>
