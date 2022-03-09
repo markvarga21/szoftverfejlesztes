@@ -130,6 +130,12 @@
                 <artifactId>spotbugs-maven-plugin</artifactId>
                 <version>4.5.3.0</version>
             </plugin>
+            <!-- Versions Maven Plugin -->
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>versions-maven-plugin</artifactId>
+                <version>2.9.0</version>
+            </plugin>
         </plugins>
     </reporting>
 </project>
